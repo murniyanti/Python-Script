@@ -1,0 +1,1 @@
+Python script to convert DNA fragments in scoring matrix using Smith-waterman alignment.
